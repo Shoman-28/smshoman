@@ -1,0 +1,36 @@
+.contact-from{
+    border-radius: 20px;
+}
+h3, h5{
+    color: #fff;
+}
+.contact{
+    overflow: hidden;
+}
+.massage{
+    width: 100% !important;
+    height: 120px !important;
+    padding: 10px !important;
+}
+.name, .email{
+    width: 100% !important;
+    height: 40px !important;
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+}
+.massage, .email, .name{
+    border-radius: 5px;
+    border: 2px solid gray !important;
+}
+.from-bg{
+    height: 100vh;
+    background-color: #9c92921c;
+}
+/* @media (max-width: 767.98px) { 
+    .contact-from-bg img{
+        height: 100%;
+        
+        
+        }
+    
+ } */

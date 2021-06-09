@@ -1,0 +1,81 @@
+
+.line-1{
+    width: 15px;
+    height: 15px;
+    background: #b9eeda;
+    display: inline-block;
+}
+
+.line-2{
+    width: 80px;
+    height: 1px;
+    
+    background: #b9eeda;
+    display: inline-block;
+}
+
+.line-3{
+    width: 60px;
+    height: 1px;
+    background: #b9eeda;
+    display: inline-block;
+}
+
+.line{
+    line-height: 8px;
+}
+.about-img img{
+    width: 90%;
+    height: 100%;
+    width: 48%;
+    height: 90%;
+    margin-top: 20px;
+
+}
+.Skills-deatils{
+    font-size: 16px;
+    background-color: #5c68637c;
+    padding: 3px;
+    border-radius: 10px;
+    color: #b9eeda !important;
+    margin: 5px;
+}
+.about-me{
+    margin-top: 50px;
+    flex-basis: 50%;
+    text-align: right;
+    box-shadow:  5px solid aqua;
+}
+
+.about-me h1{
+    font-size: 30px;
+    margin-bottom: 9px;
+    margin-top: 6px;
+
+}
+
+.about-me h3{
+    font-size: 25px;
+    margin-bottom: 7px;
+    
+}
+
+.about-me p{
+    font-family: ;
+    text-align: right;
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 14px;
+    margin-left: 10px;
+    padding: 5px 0px 10px 10px;
+    
+}
+@media (max-width: 767.98px) {
+    #background-image {
+       
+    }
+    .main-page{
+        
+    }
+    
+}

@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgb(53, 59, 65);
+}
+small{
+    color: #fff;
+}
+
+.custom-icon a{
+    color: #fff;
+    font-size: 30px;
+    padding-left:  15px;
+    
+}
+.custom-icon a:hover{
+    color: #708da0;
+    cursor: pointer;
+       
+}
+.coustom-copyright small{
+    font-size: 15px;
+
+}
