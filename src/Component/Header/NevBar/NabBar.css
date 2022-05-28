@@ -1,5 +1,5 @@
 .header{
-    background-color: #000000ec;
+    background-color: rgb(32, 42, 43, 1);
     text-align: center;    
     width: 100%;
     overflow: hidden; 
@@ -60,7 +60,7 @@ a:first-child{
         top:0px;
         position: fixed;
         z-index:2;
-        background-color: #000000ec;
+        background-color: rgb(32, 42, 43, 1);
         transition: .5s;
     }
     #menuBtn{
